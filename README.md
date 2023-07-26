@@ -6,19 +6,19 @@ Requerimientos:
   2. Administrar informacion de cada una de las personas que forman parte de REPAIRHUB (mecanicos, personal admin, proveedores, clientes).
   3. REPAIRHUB desea registrar el ingreso de los vehiculos, al momento del ingreso se debe realizar una inspeccion del vehiculo para registrar el estado fisico (puertas, farolas, cabina).
        INFORMACION DEL FORMATO:
-           1. DATOS DEL CLIENTE N° ORDEN
+           *1.* DATOS DEL CLIENTE N° ORDEN
                ID cliente, Nombre, Direccion, Nro fijo, Nro movil, Email
-           2. DATOS DEL VEHICULO
+           *2.* DATOS DEL VEHICULO
                Tipo vehiculo, placa, modelo, color, Km
-           3. INSPECCION DEL VEHICULO
+           *3.* INSPECCION DEL VEHICULO
                PUERTAS: F izquierda, T izquierda, F derecha, T derecha (descripcion)
                CABINA:
                  RADIO: marca (descripcion), estado
                  TAPICERIA: techo, muebles, tapetes, otros (descripcion)
-           4. DIAGNOSTICO CLIENTE (descripcion)
-           5. PERSONAL RESPONSABLE
+           *4.* DIAGNOSTICO CLIENTE (descripcion)
+           *5.* PERSONAL RESPONSABLE
                ID empleado, Nombre empleado, telefono empleado, movil empleado, especialidad
-           6. DIAGNOSTICO TALLER (descripcion)
+           *6.* DIAGNOSTICO TALLER (descripcion)
      
   4. El responsable realiza el registro de los hallazgos encontrados en el vehiculo, registrando los repuestos que deben ser cambiados en el siguiente formato:
        INFORMACION DLE FORMATO:
