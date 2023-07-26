@@ -9,7 +9,7 @@ Requerimientos:
            1. DATOS DEL CLIENTE N° ORDEN
                ID cliente, Nombre, Direccion, Nro fijo, Nro movil, Email
            2. DATOS DEL VEHICULO
-               placa, modelo, color, Km
+               Tipo vehiculo, placa, modelo, color, Km
            3. INSPECCION DEL VEHICULO
                PUERTAS: F izquierda, T izquierda, F derecha, T derecha (descripcion)
                CABINA:
