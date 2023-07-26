@@ -28,3 +28,4 @@ Requerimientos:
               (el valor a facturar dependera de los repuestos que el cliente seleccione/autorice)
   5. Entrega vehiculo => cuando se le hace entrega de vehiculo al cliente se debe hacer un cierre de orden de reparacion donde se registra la fecha y hora de entrega
   6. el sistema debe contar con un sistema de seguimiento donde el cliente consulte el estado de la reparacion
+  7. el sistema debe proporcionar un historial mecanic del vehiculo
